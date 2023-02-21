@@ -1,4 +1,4 @@
-from Tkinter import *
+from tkinter import *
 
 def printSomething():
     # if you want the button to disappear:
